@@ -21,5 +21,8 @@ This database enables those who are involved in covid19 treatment to seamlessly 
 - Funeral homes
 
 ## :mag: ERD
+<img width="922" alt="Screen Shot 2023-04-02 at 12 46 32 PM" src="https://user-images.githubusercontent.com/81115999/229330242-f10ebb1a-4628-4e4f-849d-ca6da84af57e.png">
+
+
 
 
