@@ -1,5 +1,6 @@
 # Covid Database Project
 This is a database project for covid19 patients.
+This database enables those who are involved in covid19 treatment to seamlessly fight against unprecedented situations.
 
 ## :black_nib: Usage
 - look up patients information
